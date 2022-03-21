@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @slow-mode
+- 👀 I’m interested in slow and steady progress.
+- 🌱 I’m currently learning solidity.
+- 
